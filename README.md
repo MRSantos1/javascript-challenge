@@ -1,1 +1,2 @@
 # javascript-challenge
+This javascript execrise is a culmination of content learned throughout the course of 14 weeks of bootcamp. It utilzes a JSON that includes date, time, size, state, and description of UFO sightings. Then the dataset is parsed using JavaScript, and router-based data scraping. Once this data has been transformed, it is presented in a website that uses CSS, Bootstrap and HTML so that the user can interact with the website. The website is dynamically coded, so additional datasets can be injected into the framework
